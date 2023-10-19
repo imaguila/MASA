@@ -3,4 +3,4 @@ Jose del Sagrado, Isabel M. del Aguila, and Francisco J. Orellana. 2012. Metaheu
 
 
 
-![Watch the video](https://www.youtube.com/watch?v=TpEJH8rQRe8)
+[Watch the video](https://www.youtube.com/watch?v=TpEJH8rQRe8)
